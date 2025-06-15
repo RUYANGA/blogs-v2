@@ -8,9 +8,9 @@ const Footer = () => {
     <footer className="bg-default mt-8 dark:bg-gray-800">
       <div className="w-full mx-auto max-w-screen-xl p-4 md:flex md:items-center md:justify-between">
         <span className="text-sm text-gray-800 sm:text-center dark:text-gray-400">
-          © 2023{" "}
+          © 2025{" "}
           <Link
-            href="https://tehseen-site.vercel.app/"
+            href="https://blogs-v2-one.vercel.app/"
             className="hover:underline"
           >
             Tehseen
