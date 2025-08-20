@@ -109,4 +109,4 @@ This project is open for contributions. If you want to contribute to this projec
 - 
 ## Contact
 
-If you have any questions or feedback about this project, feel free to contact me at [tehseen.type@gmail.com](ruyangam15@gmail.com).
+If you have any questions or feedback about this project, feel free to contact me at [ruyangam15@gmail.com](ruyangam15@gmail.com).
